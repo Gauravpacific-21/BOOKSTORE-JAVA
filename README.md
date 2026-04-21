@@ -234,6 +234,3 @@ Frontend runs on `http://localhost:5173`
 
 ---
 
-## 👨‍💻 Author
-
-**[Your Name]** — [Your GitHub Profile](https://github.com/Gauravpacific-21)
